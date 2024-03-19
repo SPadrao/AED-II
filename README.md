@@ -1,4 +1,4 @@
-Exercicio_01-numPrimo.c
+Exercicio_01-numPrimo.c <br>
 Recebe um número inteiro N que representa quantas ações deseja realizar. Em seguida, lê N números inteiros e verifica se cada um é primo ou não, utilizando a função ehPrimo. Para cada número lido, imprime o número seguido de "1" se for primo, ou "0" se não for primo.
 
 Exercicio_02-recursao.c
